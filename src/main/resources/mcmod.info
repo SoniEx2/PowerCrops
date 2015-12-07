@@ -1,0 +1,16 @@
+[
+{
+  "modid": "powercrops",
+  "name": "PowerCrops",
+  "description": "PowerCrops!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SoniEx2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

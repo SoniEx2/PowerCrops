@@ -5,4 +5,6 @@ package io.github.soniex2.powercrops;
  */
 public interface Module {
     void registerBlocksItemsAndTileEntities();
+
+    void registerRecipes();
 }

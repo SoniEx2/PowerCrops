@@ -16,6 +16,6 @@ public class BlockRFCrop extends BlockPowerCrops {
 
     @Override
     protected Item getProduct() {
-        return Item.getItemFromBlock(this);
+        return RFIntegration.rf_powerseed;
     }
 }
